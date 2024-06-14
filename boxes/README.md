@@ -1,1 +1,1 @@
-https://yigitkinik.github.io/assignment-1/boxes
+https://yigitkinik.github.io/assignments/boxes
