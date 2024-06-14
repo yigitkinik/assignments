@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image:linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(240,29,5,0.7) 100%, rgba(64,4,4,0.4) 100%), url(./fast-food.jpg);
+    background-size: cover;
+    height: 100px;
+    
+}
+
+
+.logo img{
+    width: 100px;
+    margin-left: 50px;
+    height: 12vh;
+    position: absolute;
+    top: 0;
+    left:0;
+ }
+ul {
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    justify-content: center;
+    box-sizing: border-box;
+    position: absolute;
+    width: 100vw;
+    top: 80px
+}
+.alt{
+    margin: 10px;
+
+}
+
+.yazi{
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+   
+}
+.yazi:hover{
+    color:rgb(222, 245, 14)
+}
+
+h1{
+position: absolute;
+top: 225px;
+left: 325px;
+color: rgba(255, 255, 0, 0.877);
+text-align: center;
+font-size: 100px;
+font-style: italic;
+}
