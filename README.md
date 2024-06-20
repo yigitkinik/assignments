@@ -6,4 +6,5 @@ https://yigitkinik.github.io/assignments/boxes/
 BURGER
 https://yigitkinik.github.io/assignments/burger/
 <br>
+FESTIVAL
 https://yigitkinik.github.io/assignments/festival/
