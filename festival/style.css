@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black
+}
+
+
+li{
+
+    list-style-type: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+a {
+    display:flex;
+    gap: 20px;
+    text-decoration: none;
+}
+
+li:hover{
+    color: yellow;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./printworks.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y:bottom;
+
+ }
+ .yazılar{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+ }
+h2{
+    position: absolute ;
+    color: white;
+    top: 200px;
+    text-transform: uppercase;
+    font-family: "Kanit", sans-serif;
+  font-weight: 100px;
+  font-style: italic;
+
+}
+#cizgi {
+    position:absolute;
+    top: 220px;
+    color:red;
+
+}
+
+h1{
+    position: absolute;
+    top:290px;
+    color: white;
+     font-family: "Roboto Mono", monospace;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+
+    h3{
+        padding: 1rem;
+        background-color: rgb(31, 61, 160, 0.5);
+        position: absolute;
+        top: 375px;
+        border: 1px solid rgba(255, 255, 255, 0);
+        border-radius: 50px;
+        color: white;    
+    }
+
+    footer{
+        background-color: black;
+        height: 30vh;
+        width: 100vw;
+        position: absolute;
+        top:700px;
+        
+
+        display: flex;
+        
+    }
+.logo1{
+    width: 33vw;
+    height: 100%;
+    border: 1px solid white;
+    color: white;
+   
+    text-align: center;
+    align-items: center;
+    display: flex;
+    
+    
+}
+button{
+    position: absolute;
+    top: 550px;
+    left: 48%;
+    opacity: 0.8;
+    border-radius:45px;
+
+}
+button:hover{
+    font-weight: bold;
+
+}
+i{
+ font-size: 50px;
+ padding: 1rem;
+ background-color: yellow;
+ color: black;
+ border-radius: 50px;
+}
+
+
+i:hover{
+    color: white;
+}
+.logo2{
+    width: 33vw;
+    
+    border: 1px solid white;
+    color: white;
+   
+    text-align: center;
+    align-items: center;
+    display: flex;
+    
+    }
+    .logo3{
+        width: 33vw;
+        
+        border: 1px solid white;
+        color: white;
+       
+        text-align: center;
+        align-items: center;
+        display: flex;
+        
+     }
